@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Alibi Antaev, a passionate Full Stack Web/Web3 and Mobile App developer from Kazakhstan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
-- 💼 Any freelance work? Do reach, [email](mailto:giant.brain0216@gmail.com) ⚡
-- 💬 Ask me about anything, I am happy to help; 😄
+Hi.
+You are hiring a web developer.
+I am pretty strong at React.js, AngularJS, Vue.js, HTML 5, CSS 3, SASS, Typescript/Javascript, ES6/ES7, jQuery and so on.
+My priciple is "Be the client's first friends from the requirements."
+- 💼 Have interest? Do reach, [email](mailto:squall931015@gmail.com) ⚡
+- 💬 Contact with me, this will makes you happy.
+Regards.
 
 
 📈 My GitHub Stats
